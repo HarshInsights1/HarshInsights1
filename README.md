@@ -27,8 +27,8 @@ analyst = {
     "currently"  : "Building real-world Data Analytics projects",
     "fun_fact"   : "I see raw datasets the way architects see blueprints"
 }
-<div>
----
+```
+</div>
 
 ## 🛠️ Tech Stack
 
