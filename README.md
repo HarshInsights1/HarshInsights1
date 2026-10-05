@@ -1,6 +1,6 @@
 <div align="center">
 
-# HARSH 
+# HARSH NEGI
 ### Data Analyst | SQL | Python | Power BI 
 
 <!-- Animated Typing Text -->
@@ -20,7 +20,7 @@
 
 ```python
 analyst = {
-    "name"       : "Harsh",
+    "name"       : "Harsh Negi",
     "focus"      : ["Data Analytics", "Healthcare Analytics", "Business Intelligence"],
     "tools"      : ["SQL", "Python", "Power BI", "Excel"],
     "background" : "M.Sc. Bioinformatics ➔ Data Analytics",
